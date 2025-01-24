@@ -9,14 +9,6 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 - **React.js**: React.js is used for building the user interface components.
 - **Node.js**: Node.js is used as the server-side runtime environment.
 
-## Installation
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/arjungautam1/MERN_STACK
-
-## Tutorial
-
-For a step-by-step tutorial on how to build this MERN stack application, check out the YouTube channel [CodeWithArjun](https://www.youtube.com/codewitharjun).
 
